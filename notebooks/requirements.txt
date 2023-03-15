@@ -1,0 +1,6 @@
+jupyter
+ipykernel
+pandas
+torch
+datasets
+transformers

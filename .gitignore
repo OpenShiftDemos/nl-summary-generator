@@ -1,0 +1,7 @@
+old
+*.jsonl
+
+.ipynb_checkpoints
+fine-tuned
+
+.~lock*
